@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /page30578059.html
+Disallow: /menu2
+Disallow: /page31054603.html
+Disallow: /footer
+Disallow: /page31170163.html
+Disallow: /404
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: http://aalto.lepekhin.studio/sitemap.xml
+Host: aalto.lepekhin.studio
